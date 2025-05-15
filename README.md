@@ -35,20 +35,11 @@ O modelo Random Forest apresentou desempenho satisfatório na base de teste, sen
 
 ## 🚀 Como Executar Localmente
 
-1. Clone o repositório:
+Clone o repositório:
 
 git clone https://github.com/seuusuario/ml-classificacao-clientes.git
 cd ml-classificacao-clientes
 
-
-## 📁 Estrutura do Projeto
-
-├── data/
-│ └── bootcamp_train.csv
-│ └── bootcamp_teste.csv
-├── notebooks/
-│ └── Trabalho_1.ipynb 
-├── README.md
 
 
 
